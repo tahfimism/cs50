@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <cs50.h>
 
+
+// prints a mario pyramid
+
 void print_row(int n);
 
 int main (void)
