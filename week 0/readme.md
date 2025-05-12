@@ -22,7 +22,7 @@ This folder contains my project for **Week 0** of [CS50x](https://cs50.harvard.e
 - **Goal**: Create an interactive project using Scratch that includes user input, conditions, loops, and visual effects.
 - **Concepts Used**: Event-driven programming, variables, broadcast messaging, sprite interaction.
 - **Type**: Its a simple cat game where you need to use arrows of keyboard to move the chick and rn from the cat as well as also to avoid the Cross. Have fun
-- **[Play here]([https://scratch.mit.edu/](https://scratch.mit.edu/projects/1169613310/fullscreen/))**:
+- **Play here**: [https://scratch.mit.edu/projects/1169613310/fullscreen/](https://scratch.mit.edu/projects/1169613310/fullscreen/)
 
 ---
 
