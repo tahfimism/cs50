@@ -8,6 +8,7 @@ int main(void)
 {
     // opening the phonebook
     FILE *book = fopen("phonebook.csv", "a");
+        if (file == NULL) return 1;
 
     // to ask if we want to put another contact
     char repeat = 'y';
